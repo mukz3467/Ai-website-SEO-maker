@@ -1,0 +1,6 @@
+{
+  "name": "ZyvenSEO AI",
+  "description": "Universal Website SEO Optimizer — Professional website SEO intelligence, technical auditing, content strategy, and safe source fixing platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
